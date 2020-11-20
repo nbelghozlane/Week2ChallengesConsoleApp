@@ -1,0 +1,7 @@
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\obj\Debug\Week2ChallengesConsoleApp.csprojAssemblyReference.cache
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\obj\Debug\Week2ChallengesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\bin\Debug\Week2ChallengesConsoleApp.exe.config
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\bin\Debug\Week2ChallengesConsoleApp.exe
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\bin\Debug\Week2ChallengesConsoleApp.pdb
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\obj\Debug\Week2ChallengesConsoleApp.exe
+C:\Users\Nadia\source\repos\Week2ChallengesConsoleApp\Week2ChallengesConsoleApp\obj\Debug\Week2ChallengesConsoleApp.pdb
